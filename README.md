@@ -1,9 +1,9 @@
-hey  
+hey
 
-learning linux, one command at a time  
+learning linux, one command at a time  🐧
 
 ---
 
-probably inside terminal  
+probably inside terminal !
 
-trying to understand how systems actually work  
+figuring out how systems actually work  
