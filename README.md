@@ -8,7 +8,7 @@ figuring out how systems actually work
 
 sometimes it works. sometimes i learn why it didn't
 
-## Connect
+## 📫 find me
 
 x: [@bobdeprasad](https://x.com/bobdeprasad)
 
