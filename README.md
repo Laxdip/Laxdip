@@ -20,4 +20,5 @@ telegram: [albus_05](https://t.me/albus_05)
 
 discord: albus_05
 
-![Profile Views](https://komarev.com/ghpvc/?username=Laxdip&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Laxdip&label=PROFILE+VIEWS&color=0f0&style=flat)
