@@ -3,7 +3,7 @@ Hey
 learning linux🐧
 
 
-## 📫 find me
+## 📫 Socials
 
 x: [@bobdeprasad](https://x.com/bobdeprasad)
 
