@@ -1,12 +1,7 @@
-hey
+Hey
 
-learning linux, one command at a time 🐧
+learning linux🐧
 
-probably inside terminal
-
-figuring out how systems actually work
-
-sometimes it works. sometimes i learn why it didn't
 
 ## 📫 find me
 
