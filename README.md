@@ -7,8 +7,6 @@ learning linux🐧
 
 x: [@bobdeprasad](https://x.com/bobdeprasad)
 
-instagram: [pbbobde](https://www.instagram.com/pbbobde)
-
 github: [laxdip](https://github.com/laxdip)
 
 telegram: [albus_05](https://t.me/albus_05)
