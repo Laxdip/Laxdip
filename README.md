@@ -4,17 +4,14 @@ learning linux🐧
 
 ## Socials
 
-x: [@bobdeprasad](https://x.com/bobdeprasad)
-
-Instagram: [@pbbobde](https://www.instagram.com/pbbobde)
-
-github: [laxdip](https://github.com/laxdip)
-
-telegram: [albus_05](https://t.me/albus_05)
-
-discord: albus_05
-
-email: pbobde05@gmail.com
+<table>
+  <tr><td>x</td><td>@bobdeprasad</td></tr>
+  <tr><td>Instagram</td><td>@pbbobde</td></tr>
+  <tr><td>github</td><td>laxdip</td></tr>
+  <tr><td>telegram</td><td>albus_05</td></tr>
+  <tr><td>discord</td><td>albus_05</td></tr>
+  <tr><td>email</td><td><a href="mailto:pbobde05@gmail.com">pbobde05@gmail.com</a></td></tr>
+</table>
 
 ##
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=Laxdip.network-connection-mapper)
