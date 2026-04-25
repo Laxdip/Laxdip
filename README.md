@@ -2,7 +2,7 @@
 learning linux🐧
 
 
-## 📫 Socials
+## Socials
 
 x: [@bobdeprasad](https://x.com/bobdeprasad)
 
