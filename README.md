@@ -1,5 +1,5 @@
 
-Learning linux🐧
+Learning Linux🐧
 
 
 ## Socials
