@@ -12,7 +12,7 @@ Github   : [laxdip](https://github.com/laxdip)
 
 ## badges
 
-Credly: [Prasad](https://www.credly.com/users/prasad-bobde)
+Credly: [Prasad-bobde](https://www.credly.com/users/prasad-bobde)
 
 ##
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=Laxdip.network-connection-mapper)
