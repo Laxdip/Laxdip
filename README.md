@@ -16,7 +16,7 @@ Credly: [Prasad-bobde](https://www.credly.com/users/prasad-bobde)
 
 Google: [Prasad](https://www.skills.google/public_profiles/47c3fff4-5325-48ea-a135-28469140d76b)
 
-Certifications: [View verified credentials](https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif)
+Certifications: [View verified credentials](https://http.dog/403)
 
 ##
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=Laxdip.network-connection-mapper)
