@@ -7,7 +7,6 @@ X        : [@bobdeprasad](https://x.com/bobdeprasad)
 
 Instagram: [@pbbobde](https://www.instagram.com/pbbobde)
 
-Github   : [laxdip](https://github.com/laxdip)
 
 ## badges & Certifications
 
