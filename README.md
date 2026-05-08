@@ -1,6 +1,5 @@
 
-> Mastering Linux Distros 🐧
-
+export SKILL="Mastering Linux Distros 🐧"
 
 ## Socials
 
