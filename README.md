@@ -1,5 +1,5 @@
 
-Learning Linux🐧
+> Mastering Linux Distros 🐧
 
 
 ## Socials
