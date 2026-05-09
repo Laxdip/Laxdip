@@ -7,16 +7,5 @@ X        : [@bobdeprasad](https://x.com/bobdeprasad)
 
 Instagram: [@pbbobde](https://www.instagram.com/pbbobde)
 
-
-## badges & Certifications
-
-Credly: [Prasad-bobde](https://www.credly.com/users/prasad-bobde)
-
-Google: [Prasad](https://www.skills.google/public_profiles/47c3fff4-5325-48ea-a135-28469140d76b)
-
-THM Top 20% Globally: [TryHackMe](https://tryhackme.com/p/Albus05?tab=badges)
-
-Certifications: [View verified credentials](https://youtu.be/dQw4w9WgXcQ)
-
 ##
 ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=Laxdip.network-connection-mapper)
