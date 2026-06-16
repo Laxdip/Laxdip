@@ -1,4 +1,4 @@
-    
+
  Mastering Linux Distros🐧
 
 ## Socials
