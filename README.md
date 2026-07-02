@@ -1,5 +1,5 @@
  
- Mastering Linux Distros 🐧
+ Mastering Linux Distros🐧
 
 ## Socials
 
