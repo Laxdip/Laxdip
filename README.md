@@ -1,4 +1,4 @@
-Exploring Linux Distros🐧
+Exploring Linux Distros 🐧
 
 > Visit the repos for full documentation and working proofs.
 
